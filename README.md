@@ -1,7 +1,6 @@
 # SEO Audit Visualization Platform
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-production--ready-brightgreen)
 
 An automated visualization system that transforms raw SEO citation data into executive-ready insights and actionable recommendations through universal CSV processing.
@@ -41,15 +40,6 @@ This platform processes any client's SEO audit data through automated CSV ingest
 - Python 3.8 or higher
 - pip package manager
 
-### Clone Repository
-```bash
-git clone https://github.com/yourusername/seo-audit-visualization.git
-cd seo-audit-visualization
-1. **Domain Strength Analysis** - Top-performing domains by citation strength
-2. **Opportunity Distribution** - High-value targets for SEO focus
-3. **Volume-Rank Relationship** - Search performance vs ranking position
-4. **Keyword-Domain Network** - Strategic relationship mapping
-5. **Statistical Distribution** - Co-occurrence strength analysis
 
 ## 🚦 Quick Start
 
